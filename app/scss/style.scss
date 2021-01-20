@@ -1,5 +1,10 @@
 //main scss file
+
+//functional sass styles
 @import "variables";
 @import "mixins";
+@import "animations";
+
+//elements and different components styles 
 @import "globals";
 @import "header";
